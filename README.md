@@ -8,7 +8,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2017
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Sentimental Analysis of Presidential Inaugural Speeches	
 + This project is conducted by [He Zhu]
 
 + Project summary: The inauguration speech of an American president is always a reflection of the president's advocacy and his intended policies during his tenure. By using natural language process techniques, we can transform these perceptual expressions into quantified results and try to capture some common characteristics as well as unique aspects of these speeches.
