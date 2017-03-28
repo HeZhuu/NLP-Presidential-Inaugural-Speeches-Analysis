@@ -26,4 +26,4 @@ proj/
 
 Please see each subfolder for a README file.
 
-###Please knit project1.RMD under doc folder, html file wouldn't work for shinyapp.
+### Please knit project1.RMD under doc folder, html file wouldn't work for shinyapp.
